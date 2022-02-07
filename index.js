@@ -18,8 +18,8 @@ module.exports = {
         comment: null,
 
         connectionTimeout: 20,
-        firstAttemptWaitingInterval: 5,
-        normalWaitingInterval: 2,
+        firstAttemptWaitingInterval: 1,
+        normalWaitingInterval: 1,
         isVerbose: true,
         taskId: 0,
 
